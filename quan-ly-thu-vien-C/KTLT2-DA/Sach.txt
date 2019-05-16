@@ -1,0 +1,14 @@
+2F,Fundi,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,0
+7A,Anh Van,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,1
+2L,Ly,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,3
+2K,Suc Khoe,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,7
+3M,Mang May Tinh,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,0
+8U,Love,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,0
+23T,Truyen Ngon Tinh,Anh Khanh,Kim Dong,3200,2005,140,10,2,2015,0
+7S,Sinh Hoc,Nguyen Van Nam,So Giao Duc,25000,2006,253,12,2,2010,0
+TS,Thien Su,Kim Lien,Kim Dong,23500,2010,25,21,2,2011,0
+2E,Em Yeu?,Nguyen Lam,CLB Nam Nu,58000,2011,125,23,5,2011,0
+12H,Hoa Hoc,Nguyen Thi Lien,Van Long,53000,2016,186,5,10,2016,0
+12G,Quoc Phong,Nguyen Quang Ha,Quan Doan 3,36000,2011,135,2,2,2013,0
+2DD,Dao Duc Con Nguoi,Nguyen Van Tinh,Van Long,53000,2016,234,11,2,2016,0
+3SD,Dien Gia Dinh,Ho Quang Hung,Tieng Phong,28000,2015,128,12,2,2018,0

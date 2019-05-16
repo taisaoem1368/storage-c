@@ -1,0 +1,17 @@
+﻿Build started 6/15/2018 3:47:15 PM.
+     1>Project "C:\Users\pc\Desktop\DoAn - CTDL & GiaiThuat - nhom 4\DoAnGiaiThuat\DuAnGiaiThuat\DuAnGiaiThuat.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DuAnGiaiThuat.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         DuAnGiaiThuat.vcxproj -> C:\Users\pc\Desktop\DoAn - CTDL & GiaiThuat - nhom 4\DoAnGiaiThuat\Debug\DuAnGiaiThuat.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\DuAnGiaiThuat.unsuccessfulbuild".
+         Touching "Debug\DuAnGiaiThuat.lastbuildstate".
+     1>Done Building Project "C:\Users\pc\Desktop\DoAn - CTDL & GiaiThuat - nhom 4\DoAnGiaiThuat\DuAnGiaiThuat\DuAnGiaiThuat.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02

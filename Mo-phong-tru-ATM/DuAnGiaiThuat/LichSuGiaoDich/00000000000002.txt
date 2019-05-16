@@ -1,0 +1,42 @@
+11:52:38   17/05/2018 100000VND  697250VND   1100      with    Not Applicable  N/A              350360
+11:53:20   17/05/2018 500000VND  645600VND   1650      with    Not Applicable  N/A              350362
+11:54:17   17/05/2018 200000VND  788450VND   11550     send    00000000000001  PHAN THI TRINH   350364
+11:56:34   17/05/2018 200000VND  576900VND   11550     send    00000000000001  PHAN THI TRINH   350367
+12:12:11   17/05/2018 0VND       576900VND   0         lock    Not Applicable  N/A              350379
+12:13:02   17/05/2018 100000VND  475800VND   1100      with    Not Applicable  N/A              350380
+12:13:29   17/05/2018 200000VND  264250VND   11550     send    00000000000001  PHAN THI TRINH   350382
+12:13:54   17/05/2018 200000VND  464250VND   0         plus    00000000000001  PHAN THI TRINH   350385
+12:15:03   17/05/2018 0VND       464250VND   0         lock    Not Applicable  N/A              350386
+12:15:32   17/05/2018 200000VND  664250VND   0         plus    00000000000001  PHAN THI TRINH   350389
+18:21:47   22/05/2018 100000VND  562600VND   1650      with    Not Applicable  N/A              350391
+18:41:54   22/05/2018 0VND       762600VND   0         add     Not Applicable  N/A              350392
+18:44:01   22/05/2018 0VND       962600VND   0         add     Not Applicable  N/A              350393
+18:46:16   22/05/2018 500000VND  461500VND   1100      with    Not Applicable  N/A              350394
+18:46:45   22/05/2018 0VND       761500VND   0         add     Not Applicable  N/A              350395
+18:48:58   22/05/2018 300000VND  700000VND   0         add     Not Applicable  N/A              350396
+18:51:47   22/05/2018 500000VND  500000VND   0         add     Not Applicable  N/A              350397
+18:52:26   22/05/2018 100000VND  398900VND   1100      with    Not Applicable  N/A              350398
+18:53:04   22/05/2018 200000VND  187350VND   11550     send    00000000000001  PHAN THI TRINH   350400
+19:05:01   22/05/2018 0VND       187350VND   0         lock    Not Applicable  N/A              350402
+19:09:52   22/05/2018 0VND       187350VND   0         lock    Not Applicable  N/A              350404
+19:20:10   22/05/2018 500000VND  687350VND   0         add     Not Applicable  N/A              350415
+19:20:32   22/05/2018 200000VND  475800VND   11550     send    00000000000001  PHAN THI TRINH   350417
+20:02:14   22/05/2018 400000VND   74150VND   1650      with    Not Applicable  N/A              350420
+20:03:10   22/05/2018 800000VND  874150VND   0         add     Not Applicable  N/A              350421
+20:03:49   22/05/2018 200000VND  662600VND   11550     send    00000000000001  PHAN THI TRINH   350423
+12:48:22   28/05/2018 800000VND  800000VND   0         add     Not Applicable  N/A              350425
+23:24:45   04/06/2018 100000VND  698900VND   1100      with    Not Applicable  N/A              350443
+23:26:19   04/06/2018 50000VND   748900VND   1100      with    Not Applicable  N/A              350444
+23:26:54   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350446
+23:28:41   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350448
+23:29:02   04/06/2018 50000VND   697800VND   1100      with    Not Applicable  N/A              350449
+23:30:47   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350451
+23:32:08   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350453
+23:35:13   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350455
+23:37:16   04/06/2018 50000VND   697250VND   1650      with    Not Applicable  N/A              350457
+23:42:12   04/06/2018 100000VND  595600VND   1650      with    Not Applicable  N/A              350462
+00:02:21   05/06/2018 50000VND   97250VND    1100      with    Not Applicable  N/A              350465
+00:03:14   05/06/2018 500000VND  597250VND   0         add     Not Applicable  N/A              350466
+00:03:26   05/06/2018 100000VND  495600VND   1650      with    Not Applicable  N/A              350468
+00:27:53   05/06/2018 200000VND  294500VND   1100      with    Not Applicable  N/A              350469
+00:28:23   05/06/2018 100000VND  193400VND   1100      with    Not Applicable  N/A              350470

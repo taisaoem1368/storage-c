@@ -1,0 +1,13 @@
+23:01:54   04/06/2018 200000VND  298350VND   1650      with    Not Applicable  N/A              350430
+23:04:23   04/06/2018 100000VND  197250VND   1100      with    Not Applicable  N/A              350431
+23:05:28   04/06/2018 50000VND  247250VND   0         add     Not Applicable  N/A              350432
+23:15:10   04/06/2018 100000VND  146150VND   1100      with    Not Applicable  N/A              350433
+23:17:41   04/06/2018 200000VND  346150VND   0         add     Not Applicable  N/A              350434
+23:18:09   04/06/2018 200000VND  144500VND   1650      with    Not Applicable  N/A              350436
+23:19:06   04/06/2018 500000VND  644500VND   0         add     Not Applicable  N/A              350437
+23:19:18   04/06/2018 100000VND  542850VND   1650      with    Not Applicable  N/A              350439
+23:21:13   04/06/2018 500000VND  644500VND   0         add     Not Applicable  N/A              350440
+23:22:38   04/06/2018 50000VND  493400VND   1100      with    Not Applicable  N/A              350441
+23:23:45   04/06/2018 100000VND  392300VND   1100      with    Not Applicable  N/A              350442
+23:38:43   04/06/2018 200000VND  592300VND   0         add     Not Applicable  N/A              350458
+23:38:53   04/06/2018 100000VND  490650VND   1650      with    Not Applicable  N/A              350460

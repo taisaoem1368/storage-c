@@ -1,0 +1,5 @@
+
+15:38:14   15/06/2018 0VND       0VND   0         lock    Not Applicable  N/A              350471
+15:40:26   15/06/2018 800000VND  800000VND   0         add     Not Applicable  N/A              350472
+15:42:21   15/06/2018 500000VND  298350VND   1650      with    Not Applicable  N/A              350474
+15:45:06   15/06/2018 200000VND   86800VND   11550     send    00000000000001  PHAN THI TRINH   350476
